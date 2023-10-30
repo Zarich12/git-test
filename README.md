@@ -1,2 +1,3 @@
 # git-test
-Test github repo
+Github Repo
+Odin Project
